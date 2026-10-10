@@ -39,7 +39,7 @@ The **Intelligent Solar-Battery Energy Management System** addresses these chall
 
 ---
 
-## 👥 Contributors (Team Bit Squad)
+## 👥 Contributors
 
 Department of Computer Sciences, Namal University, Mianwali  
 **Course:** CSC-225 Software Engineering  
